@@ -1,9 +1,9 @@
 ###Getting Started####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the server with the following:
 
 ```
 	> git clone git@github.com:avishekjana/ReactReduxBase.git
-	> cd ReduxSimpleStarter
+	> cd ReactReduxBase
 	> npm install
 	> npm start
 ```
